@@ -8,8 +8,7 @@ let additions =
     { dependencies =
       [ "aff"
       , "affjax"
-      , "argonaut"
-      , "argonaut-codecs"
+      , "css"
       , "console"
       , "effect"
       , "filterable"

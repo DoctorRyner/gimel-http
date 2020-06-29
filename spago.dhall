@@ -1,6 +1,15 @@
-{ name = "gimel-styled"
+{ name = "gimel-http"
 , dependencies =
-  [ "console", "css", "effect", "gimel", "maybe", "psci-support", "react" ]
+  [ "affjax"
+  , "argonaut"
+  , "argonaut-codecs"
+  , "console"
+  , "effect"
+  , "gimel"
+  , "maybe"
+  , "psci-support"
+  , "react"
+  ]
 , packages = ./packages.dhall
 , sources = [ "src/**/*.purs" ]
 }

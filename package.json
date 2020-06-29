@@ -1,5 +1,5 @@
 {
-  "name": "gimel-styled",
+  "name": "gimel-http",
   "version": "1.0.0",
   "description": "Gimel's styled-components port",
   "main": "index.js",
