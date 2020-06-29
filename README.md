@@ -1,2 +1,2 @@
-# gimel-styled
-Gimel's styled-components port
+# gimel-http
+Gimel's HTTP modules
